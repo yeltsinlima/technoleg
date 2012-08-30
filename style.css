@@ -1,5 +1,5 @@
 body {
-	background: url(img/bg.png);
+	background: url(img/bg.png) fixed;
 	font-family: 'Open Sans', sans-serif;
 }
 .clearfix {
@@ -43,13 +43,13 @@ body {
 	.fb-facepile {
 		margin: 15px 0px;
 	}
-	#reviews ul {
+	.reviews {
 		margin-top: 10px;
 	}
-	#reviews li {
+	.reviews li {
 		margin-bottom: 2px;
 	}
-	#reviews a {
+	.reviews a {
 		padding: 10px;
 		display: block;
 		background: #E6E6E6;
@@ -63,14 +63,7 @@ body {
 		-o-transition: background 200ms linear;
 		transition: background 200ms linear;
 	}
-	#reviews a:hover {
+	.reviews a:hover {
 		background: #CCC;
 	}
-	#tab li {
-		display: inline-block;
-		font-size: 0.8em;
-	}
-	#tab li a {
-		display: block;
-		padding: 10px;
-	}
+	
