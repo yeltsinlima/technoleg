@@ -43,3 +43,34 @@ body {
 	.fb-facepile {
 		margin: 15px 0px;
 	}
+	#reviews ul {
+		margin-top: 10px;
+	}
+	#reviews li {
+		margin-bottom: 2px;
+	}
+	#reviews a {
+		padding: 10px;
+		display: block;
+		background: #E6E6E6;
+		text-decoration: none;
+		color: #000;
+		font-size: 0.9em;
+		font-weight: 300;
+		-webkit-transition: background 200ms linear;
+		-moz-transition: background 200ms linear;
+		-ms-transition: background 200ms linear;
+		-o-transition: background 200ms linear;
+		transition: background 200ms linear;
+	}
+	#reviews a:hover {
+		background: #CCC;
+	}
+	#tab li {
+		display: inline-block;
+		font-size: 0.8em;
+	}
+	#tab li a {
+		display: block;
+		padding: 10px;
+	}

@@ -12,8 +12,15 @@
 
 	<!-- JS -->
     <script src="js/jquery.js"></script>
+    <script src="js/jquery-ui.js"></script>
     <script src="js/backbone-min.js"></script>
     <script src="js/underscore-min.js"></script>
+    
+    <script>
+	$(function() {
+		$( "#tab" ).tabs();
+	});
+	</script>
 
 </head>
 
@@ -55,6 +62,58 @@
             <div class="widget">
             
             	<img src="http://placehold.it/300x125">
+            
+            </div>
+            
+            <div class="widget">
+            
+            	<img src="http://placehold.it/300x300">
+            
+            </div>
+            
+            <div id="reviews" class="widget">
+            
+            	<h3>Últimos Reviews</h3>
+            
+            	<ul>
+                	<li><h4><a href="">Produto com um nome bem grande</a></h4></li>
+                    <li><h4><a href="">Produto com um nome bem grande</a></h4></li>
+                    <li><h4><a href="">Produto com um nome bem grande</a></h4></li>
+                    <li><h4><a href="">Produto com um nome bem grande</a></h4></li>
+                    <li><h4><a href="">Produto com um nome bem grande</a></h4></li>
+                </ul>
+            
+            </div>
+            
+            <div id="tabs" class="widget">
+            
+            	<div id="tab">
+                
+                	<ul>
+                    	<li><a href="#top">Lidos</a></li>
+                        <li><a href="#comments">Comentados</a></li>
+                        <li><a href="#share">Compartilhados</a></li>
+                    </ul>
+                    
+                    <div id="top">
+                    
+                    	<h3>Lidos</h3>
+                    
+                    </div>
+                    
+                    <div id="comments">
+                    
+                    	<h3>Comentados</h3>
+                    
+                    </div>
+                    
+                    <div id="share">
+                    
+                    	<h3>Compartilhados</h3>
+                    
+                    </div>
+                
+                </div>
             
             </div>
         
