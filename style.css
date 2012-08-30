@@ -1,0 +1,45 @@
+body {
+	background: url(img/bg.png);
+	font-family: 'Open Sans', sans-serif;
+}
+.clearfix {
+	clear: both;
+}
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+#posts {
+	width: 650px;
+	float: left;
+}
+	.article {
+		width: 630px;
+		float: left;
+		padding: 10px;
+		background: #FFF;
+		margin-bottom: 20px;
+	}
+#sidebar {
+	width: 320px;
+	float: right;
+}
+	.widget {
+		background: #FFF;
+		width: 300px;
+		padding: 10px;
+		float: left;
+		margin-bottom: 20px;
+	}
+	.widget h3 {
+		font-weight: 300;
+		text-transform: uppercase;
+		padding: 10px 0px;
+		color: #000;
+	}
+	.fb-like {
+		margin-top: 5px;
+	}
+	.fb-facepile {
+		margin: 15px 0px;
+	}
