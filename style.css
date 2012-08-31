@@ -1,0 +1,14 @@
+.center {
+	text-align: center;
+}
+
+/* HEADER */
+#banner {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: solid 1px #d9d9d9;
+}
+#header h2 {
+	font-size: 1em;
+}
