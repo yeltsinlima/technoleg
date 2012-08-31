@@ -8,13 +8,16 @@
 }
 
 @media (min-width: 980px) and (max-width: 1199px) {
-	#header {
-		margin-top: 50px;
-	}
 }
-/* Large desktop */
 @media (min-width: 1200px) {
-	#header {
-		margin-top: 50px;
-	}
+}
+#banner {
+	margin-top: 10px;
+}
+#header {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.aligncenter {
+	text-align: center;
 }
