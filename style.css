@@ -9,6 +9,41 @@
 	padding-bottom: 20px;
 	border-bottom: solid 1px #d9d9d9;
 }
+#header {
+	padding-top: 12px;
+	border-bottom: solid 1px #d9d9d9;
+	margin-bottom: 20px;
+}
+#header h1 {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
 #header h2 {
 	font-size: 1em;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+#pesquisa {
+	margin-top: 7px;
+}
+
+/* MENU */
+#menu {
+	border-bottom: solid 1px #d9d9d9;
+	margin-bottom: 20px;
+}
+
+/* CONTEÚDO */
+
+
+/* SIDEBAR */
+.widget {
+	padding-bottom: 15px;
+	margin-bottom: 10px;
+	border-bottom: solid 1px #CDCDCD;
+}
+.twitter-follow-button {
+	margin: 20px 0px 0px 0px;
+	text-align: center;
 }
