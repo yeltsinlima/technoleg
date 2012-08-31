@@ -16,6 +16,7 @@
 
 <body>
 
+	<!-- Banner para Tablets e Desktop -->
 	<div id="banner" class="container hidden-phone">
 	
 		<div class="row">
@@ -29,7 +30,23 @@
 		</div>
 	
 	</div>
+	
+	<!-- Banner para Celulares -->
+	<div id="banner" class="container visible-phone">
+	
+		<div class="row">
+		
+			<div class="span12 aligncenter">
+			
+				<img src="http://placehold.it/468x60">
+			
+			</div>
+		
+		</div>
+	
+	</div>
 
+	<!-- Topo e Menu -->
 	<div class="container">
 	
 		<div class="row">
@@ -40,11 +57,31 @@
 				
 					<div class="span4">
 					
-						<h1>Logo</h1>
+						<!-- Logo -->
+					
+						<a href="index.html" title="Technoleg - Seu Canal de Tecnologia"><img src="img/logo.png" alt="Technoleg - Seu Canal de Tecnologia"></a>
 					
 					</div>
 					
 					<div class="span8">
+					
+						<!-- Pesquisa -->
+
+						<form action="">
+						
+							<div id="pesquisa" class="row">
+							
+								<div class="offset2 span6 alignright">
+																
+									<input type="text" name="s" placeholder="Digite aqui a sua pesquisa" class="span4">
+									<input type="submit" class="btn btn-primary" value="Pesquisar" id="searchbtn">
+	
+															
+								</div>
+														
+							</div>
+						
+						</form>
 										
 					</div>
 				
@@ -52,6 +89,7 @@
 			
 			</div>
 		
+			<!-- Menu -->
 			<div class="span12">
 
 			    <div class="navbar">
@@ -169,6 +207,7 @@
 				                			<li><a href="/saiba-mais/wordpress/" title="WordPress">WordPress</a></li>
 				                		</ul>
 				                	</li>
+				                	<li><a href="/saiba-mais/empreendedorismo/" title="Saiba tudo sobre Empreendedorismo">Empreendedorismo</a></li>
 				                	<li class="dropdown">
 				                		<a href="" class="dropdown-toggle" data-toggle="dropdown">
 				                			Reviews
@@ -196,8 +235,27 @@
 		</div>
     
 	</div>
-
 	
+	<!-- Conteúdo -->
+	
+	<div class="container" id="conteudo">
+
+		<div class="row">
+		
+		
+			<!-- Posts -->
+			<div class="span8">
+			
+			</div>
+			
+			<!-- Sidebar -->
+			<div class="span4">
+			</div>
+		
+		</div>
+	
+	</div>
+
 	<!-- SCRIPT -->
     <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
