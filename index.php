@@ -117,11 +117,11 @@
 									<div class="offset2 span6">
 									
 										<ul class="nav nav-pills">
-											<li class="active"><a href="index.php" title="Voltar para a página inicial">Home</a></li>
-											<li><a href="quemsomos.php" title="Saiba mais sobre a equipe do Technoleg">Quem Somos</a></li>
-											<li><a href="colabore.php" title="Envie dicas e artigos">Colabore</a></li>
-											<li><a href="anuncie.php" title="Anuncie Conosco">Anuncie</a></li>
-											<li><a href="trabalhe.php" title="Trabalhe Conosco">Vagas</a></li>
+											<li class="active"><a href="http://www.technoleg.com.br/" title="Voltar para a página inicial">Home</a></li>
+											<li><a href="http://www.technoleg.com.br/quem-somos/" title="Saiba mais sobre a equipe do Technoleg">Quem Somos</a></li>
+											<li><a href="http://www.technoleg.com.br/colabore/" title="Envie dicas e artigos">Colabore</a></li>
+											<li><a href="http://www.technoleg.com.br/anuncie/" title="Anuncie Conosco">Anuncie</a></li>
+											<li><a href="http://www.technoleg.com.br/contato/" title="Trabalhe Conosco">Vagas</a></li>
 										</ul>
 									
 									</div>
@@ -257,7 +257,83 @@
 			
 				<div class="span8">
 	
-					teste
+					<div class="row">
+					
+						<!-- Destaque -->
+						<div class="span8 destaque">
+							
+							<img src="http://placehold.it/620x300">
+							
+							<h3>Gotham City Impostors agora é Free-to-Play no Steam</h3>
+							
+							<h4>Por Igor Queiroz em 31 de agosto de 2012</h4>
+							
+							<p>A indústria de jogos está se modificando, e novas formas de negócio estão dando lugar a maneira antiga de comercializar jogos. E é dentro desse cenário que Gotham City Impostors se encontra, já que o mesmo acabou de migrar para a modalidade Free-to-Play no Steam.</p>
+							
+							<a href="#" class="btn btn-primary btn-large right">Leia o artigo completo...</a>
+						
+						</div>
+						
+						<!-- Destaques pequenos -->
+						<div class="span4 destaque">
+							
+							<img src="http://placehold.it/310x150">
+							
+							<h4>Apple solicita a proibição de 8 aparelhos Samsung nos EUA</h4>
+							
+							<h5>Por Arthur Vinicius em 31 de setembro de 2012</h5>
+							
+							<p>A empresa não esperou muito pra começar a impactar a Samsung após conquistar o favor judicial, e por isso elaborou uma lista de dispositivos que quer proibir nos Estados Unidos.</p>
+							
+							<a href="" class="btn btn-primary right">Ler artigo completo...</a>
+						
+						</div>
+						
+						<div class="span4 destaque">
+							
+							<img src="http://placehold.it/310x150">
+							
+							<h4>Apple solicita a proibição de 8 aparelhos Samsung nos EUA</h4>
+							
+							<h5>Por Arthur Vinicius em 31 de setembro de 2012</h5>
+							
+							<p>A empresa não esperou muito pra começar a impactar a Samsung após conquistar o favor judicial, e por isso elaborou uma lista de dispositivos que quer proibir nos Estados Unidos.</p>
+							
+							<a href="" class="btn btn-primary right">Ler artigo completo...</a>
+						
+						</div>
+						
+						<div class="span4 destaque">
+							
+							<img src="http://placehold.it/310x150">
+							
+							<h4>Apple solicita a proibição de 8 aparelhos Samsung nos EUA</h4>
+							
+							<h5>Por Arthur Vinicius em 31 de setembro de 2012</h5>
+							
+							<p>A empresa não esperou muito pra começar a impactar a Samsung após conquistar o favor judicial, e por isso elaborou uma lista de dispositivos que quer proibir nos Estados Unidos.</p>
+							
+							<a href="" class="btn btn-primary right">Ler artigo completo...</a>
+						
+						</div>
+						
+						<div class="span4 destaque">
+							
+							<img src="http://placehold.it/310x150">
+							
+							<h4>Apple solicita a proibição de 8 aparelhos Samsung nos EUA</h4>
+							
+							<h5>Por Arthur Vinicius em 31 de setembro de 2012</h5>
+							
+							<p>A empresa não esperou muito pra começar a impactar a Samsung após conquistar o favor judicial, e por isso elaborou uma lista de dispositivos que quer proibir nos Estados Unidos.</p>
+							
+							<a href="" class="btn btn-primary right">Ler artigo completo...</a>
+						
+						</div>						
+
+					
+					</div>
+					
 					
 				</div>
 				

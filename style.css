@@ -1,6 +1,15 @@
 .center {
 	text-align: center;
 }
+.right {
+	float:  right;
+}
+p {
+	line-height: 1.8em !important;
+}
+h4 {
+	line-height: 1.8em !important;
+}
 
 /* HEADER */
 #banner {
@@ -35,7 +44,9 @@
 }
 
 /* CONTEÚDO */
-
+.destaque {
+	margin-bottom:  20px;
+}
 
 /* SIDEBAR */
 .widget {
